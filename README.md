@@ -1,1 +1,1 @@
-# Research-
+The data from the period 2010-2021 for 63 provinces and cities includes national outputs such as agricultural, industrial, and service GDP, and inputs including labor, cumulative investment, and land area (Raw data.xlsx). This data was collected by me from the statistical yearbooks of 63 provinces in Vietnam. I proceeded to upload the data for calculations (NE_input file.csv) using the DPIN 3.0S software from The University of Queensland.
