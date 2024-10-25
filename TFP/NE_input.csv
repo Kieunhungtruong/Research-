@@ -9,7 +9,7 @@ Window,3,,,,,,,,,,,,,
 Base,5,,,,,,,,,,,,,
 UnitMeans,,,This last option instructs DPIN to rescale quantity variables to have unit means.,,,,,,,,,,,
 end,,,,,,,,,,,,,,
-Obs,State,Year,NÙng nghi?p,CÙng nghi?p,D?ch v?,Lao d?ng ( NghÏn ngu?i),V?n tÌch lu? (T? d?ng),–?t (NghÏn Ha),Investment,P2 = Crops,P3 = Other,W1 = Capital,W2 = Land,W3 = Labor
+Obs,State,Year,N√¥ng nghi?p,C√¥ng nghi?p,D?ch v?,Lao d?ng ( Ngh√¨n ngu?i),V?n t√≠ch lu? (T? d?ng),√ê?t (Ngh√¨n Ha),Investment,P2 = Crops,P3 = Other,W1 = Capital,W2 = Land,W3 = Labor
 1,1,2010,14322,102623,128804,3546,152961.5649,281.2,170535,65,66,67,68,69
 2,2,2010,3664,14390,8720,599.522,12461.4112,109.8,14081.747,66,67,68,69,70
 3,3,2010,3744.85415,20371.55235,11758.87309,593.114,19175.46279,70.8,21388.6,67,68,69,70,71
